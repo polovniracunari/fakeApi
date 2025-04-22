@@ -1,0 +1,289 @@
+{
+    "cpus": [
+        {
+            "brand": "Intel",
+            "family": "Core i9",
+            "model": "13900K",
+            "frequency": 3.0,
+            "core": 24,
+            "threads": 32,
+            "cache": {
+                "l1": "32KB per core",
+                "l2": "2MB per core",
+                "l3": "36MB"
+            },
+            "tdp": 125,
+            "socket": "LGA1700"
+        },
+        {
+            "brand": "AMD",
+            "family": "Ryzen 9",
+            "model": "7950X",
+            "frequency": 4.5,
+            "core": 16,
+            "threads": 32,
+            "cache": {
+                "l1": "64KB per core",
+                "l2": "1MB per core",
+                "l3": "64MB"
+            },
+            "tdp": 170,
+            "socket": "AM5"
+        },
+        {
+            "brand": "Intel",
+            "family": "Core i5",
+            "model": "13600K",
+            "frequency": 3.5,
+            "core": 14,
+            "threads": 20,
+            "cache": {
+                "l1": "32KB per core",
+                "l2": "2MB per core",
+                "l3": "24MB"
+            },
+            "tdp": 125,
+            "socket": "LGA1700"
+        },
+        {
+            "brand": "AMD",
+            "family": "Ryzen 5",
+            "model": "7600X",
+            "frequency": 4.7,
+            "core": 6,
+            "threads": 12,
+            "cache": {
+                "l1": "64KB per core",
+                "l2": "1MB per core",
+                "l3": "32MB"
+            },
+            "tdp": 105,
+            "socket": "AM5"
+        },
+        {
+            "brand": "Intel",
+            "family": "Core i3",
+            "model": "12100F",
+            "frequency": 3.3,
+            "core": 4,
+            "threads": 8,
+            "cache": {
+                "l1": "32KB per core",
+                "l2": "1.25MB per core",
+                "l3": "12MB"
+            },
+            "tdp": 58,
+            "socket": "LGA1700"
+        }
+    ],
+    "gpus": [
+        {
+            "brand": "NVIDIA",
+            "family": "GeForce RTX",
+            "model": "4090",
+            "core": 16384,
+            "vram": 24,
+            "memoryBus": 384,
+            "tdp": 450,
+            "ports": {
+                "hdmi": 3,
+                "dvi": 1,
+                "vga": 0
+            }
+        },
+        {
+            "brand": "AMD",
+            "family": "Radeon RX",
+            "model": "7900 XTX",
+            "core": 6144,
+            "vram": 24,
+            "memoryBus": 384,
+            "tdp": 355,
+            "ports": {
+                "hdmi": 1,
+                "dvi": 1,
+                "vga": 0
+            }
+        },
+        {
+            "brand": "NVIDIA",
+            "family": "GeForce RTX",
+            "model": "4070 Ti",
+            "core": 7680,
+            "vram": 12,
+            "memoryBus": 192,
+            "tdp": 285,
+            "ports": {
+                "hdmi": 1,
+                "dvi": 2,
+                "vga": 0
+            }
+        },
+        {
+            "brand": "AMD",
+            "family": "Radeon RX",
+            "model": "7700 XT",
+            "core": 3456,
+            "vram": 12,
+            "memoryBus": 192,
+            "tdp": 245,
+            "ports": {
+                "hdmi": 1,
+                "dvi": 1,
+                "vga": 1
+            }
+        },
+        {
+            "brand": "NVIDIA",
+            "family": "GeForce RTX",
+            "model": "3060",
+            "core": 3584,
+            "vram": 12,
+            "memoryBus": 192,
+            "tdp": 170,
+            "ports": {
+                "hdmi": 3,
+                "dvi": 1,
+                "vga": 0
+            }
+        }
+    ],
+    "mb": [
+        {
+            "brand": "ASUS",
+            "model": "ROG Maximus Z790 Hero",
+            "socket": "LGA1700",
+            "ram": {
+                "frequnecy": [
+                    4800,
+                    5600,
+                    6000,
+                    6400
+                ],
+                "ddr": 5,
+                "numberOfSlots": 4,
+                "maxCapacity": 128
+            },
+            "Size": "ATX",
+            "Ethernet": 2.5,
+            "Wifi6": true,
+            "connectivity": {
+                "Sata": 6,
+                "m2": 4,
+                "usb32Gen2": 4,
+                "usb32Gen1": 4,
+                "usb2": 2
+            }
+        },
+        {
+            "brand": "MSI",
+            "model": "MAG B550 Tomahawk",
+            "socket": "AM4",
+            "ram": {
+                "frequnecy": [
+                    2133,
+                    2400,
+                    2666,
+                    3200,
+                    3600,
+                    4000
+                ],
+                "ddr": 4,
+                "numberOfSlots": 4,
+                "maxCapacity": 128
+            },
+            "Size": "ATX",
+            "Ethernet": 1,
+            "Wifi6": false,
+            "connectivity": {
+                "Sata": 6,
+                "m2": 2,
+                "usb32Gen2": 1,
+                "usb32Gen1": 2,
+                "usb2": 2
+            }
+        },
+        {
+            "brand": "Gigabyte",
+            "model": "B650I AORUS Ultra",
+            "socket": "AM5",
+            "ram": {
+                "frequnecy": [
+                    4800,
+                    5200,
+                    5600,
+                    6000,
+                    6400
+                ],
+                "ddr": 5,
+                "numberOfSlots": 2,
+                "maxCapacity": 64
+            },
+            "Size": "Mini ITX",
+            "Ethernet": 2.5,
+            "Wifi6": true,
+            "connectivity": {
+                "Sata": 4,
+                "m2": 2,
+                "usb32Gen2": 3,
+                "usb32Gen1": 2,
+                "usb2": 2
+            }
+        },
+        {
+            "brand": "ASRock",
+            "model": "Z690 Steel Legend",
+            "socket": "LGA1700",
+            "ram": {
+                "frequnecy": [
+                    3200,
+                    3600,
+                    4000,
+                    4400,
+                    4800,
+                    5200
+                ],
+                "ddr": 4,
+                "numberOfSlots": 4,
+                "maxCapacity": 128
+            },
+            "Size": "ATX",
+            "Ethernet": 1,
+            "Wifi6": false,
+            "connectivity": {
+                "Sata": 6,
+                "m2": 3,
+                "usb32Gen2": 2,
+                "usb32Gen1": 3,
+                "usb2": 2
+            }
+        },
+        {
+            "brand": "ASUS",
+            "model": "Prime H510M-A",
+            "socket": "LGA1200",
+            "ram": {
+                "frequnecy": [
+                    2133,
+                    2400,
+                    2666,
+                    2933,
+                    3200
+                ],
+                "ddr": 4,
+                "numberOfSlots": 2,
+                "maxCapacity": 64
+            },
+            "Size": "Micro ATX",
+            "Ethernet": 1,
+            "Wifi6": false,
+            "connectivity": {
+                "Sata": 4,
+                "m2": 1,
+                "usb32Gen2": 0,
+                "usb32Gen1": 2,
+                "usb2": 4
+            }
+        }
+    ]
+}
