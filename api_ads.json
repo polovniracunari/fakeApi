@@ -1,0 +1,57 @@
+[
+    {
+        "title": "Intel Core i9 13900K - Nov",
+        "description": "Potpuno nov procesor u originalnom pakovanju sa garancijom. Idealno za gaming i profesionalni rad.",
+        "price": 650,
+        "category": "cpu",
+        "location": "Beograd",
+        "created_at": "2023-11-15T09:30:00.000Z",
+        "user": 1,
+        "product": 1,
+        "status": "premium"
+    },
+    {
+        "title": "ASUS ROG Maximus Z790 Hero",
+        "description": "Vrhunska matična ploča za Intel procesore. Korištena 2 meseca, kao nova. Komplet oprema.",
+        "price": 450,
+        "category": "mb",
+        "location": "Novi Sad",
+        "created_at": "2023-11-12T14:20:00.000Z",
+        "user": 2,
+        "product": 1,
+        "status": "active"
+    },
+    {
+        "title": "NVIDIA RTX 4090 24GB",
+        "description": "Najjača grafička na tržištu. Kupljena pre 3 meseca, odlično očuvana sa originalnim pakovanjem.",
+        "price": 1800,
+        "category": "gpu",
+        "location": "Niš",
+        "created_at": "2023-11-08T11:15:00.000Z",
+        "user": 1,
+        "product": 1,
+        "status": "active"
+    },
+    {
+        "title": "AMD Ryzen 9 7950X",
+        "description": "16-core/32-thread monster. Nov sa garancijom. Idealno za video editing i 3D rendering.",
+        "price": 700,
+        "category": "cpu",
+        "location": "Kragujevac",
+        "created_at": "2023-11-10T16:45:00.000Z",
+        "user": 2,
+        "product": 2,
+        "status": "premium"
+    },
+    {
+        "title": "MSI MAG B550 Tomahawk",
+        "description": "Odlična AMD matična ploča sa WiFi. Malo korištena, bez ikakvih problema.",
+        "price": 150,
+        "category": "mb",
+        "location": "Subotica",
+        "created_at": "2023-11-14T10:10:00.000Z",
+        "user": 1,
+        "product": 2,
+        "status": "active"
+    }
+]

@@ -1,6 +1,7 @@
 {
     "cpus": [
         {
+            "id": 1,
             "brand": "Intel",
             "family": "Core i9",
             "model": "13900K",
@@ -16,6 +17,7 @@
             "socket": "LGA1700"
         },
         {
+            "id": 2,
             "brand": "AMD",
             "family": "Ryzen 9",
             "model": "7950X",
@@ -31,6 +33,7 @@
             "socket": "AM5"
         },
         {
+            "id": 3,
             "brand": "Intel",
             "family": "Core i5",
             "model": "13600K",
@@ -46,6 +49,7 @@
             "socket": "LGA1700"
         },
         {
+            "id": 4,
             "brand": "AMD",
             "family": "Ryzen 5",
             "model": "7600X",
@@ -61,6 +65,7 @@
             "socket": "AM5"
         },
         {
+            "id": 5,
             "brand": "Intel",
             "family": "Core i3",
             "model": "12100F",
@@ -78,6 +83,7 @@
     ],
     "gpus": [
         {
+            "id": 1,
             "brand": "NVIDIA",
             "family": "GeForce RTX",
             "model": "4090",
@@ -92,6 +98,7 @@
             }
         },
         {
+            "id": 2,
             "brand": "AMD",
             "family": "Radeon RX",
             "model": "7900 XTX",
@@ -106,6 +113,7 @@
             }
         },
         {
+            "id": 3,
             "brand": "NVIDIA",
             "family": "GeForce RTX",
             "model": "4070 Ti",
@@ -120,6 +128,7 @@
             }
         },
         {
+            "id": 4,
             "brand": "AMD",
             "family": "Radeon RX",
             "model": "7700 XT",
@@ -134,6 +143,7 @@
             }
         },
         {
+            "id": 5,
             "brand": "NVIDIA",
             "family": "GeForce RTX",
             "model": "3060",
@@ -150,6 +160,7 @@
     ],
     "mb": [
         {
+            "id": 1,
             "brand": "ASUS",
             "model": "ROG Maximus Z790 Hero",
             "socket": "LGA1700",
@@ -176,6 +187,7 @@
             }
         },
         {
+            "id": 2,
             "brand": "MSI",
             "model": "MAG B550 Tomahawk",
             "socket": "AM4",
@@ -204,6 +216,7 @@
             }
         },
         {
+            "id": 3,
             "brand": "Gigabyte",
             "model": "B650I AORUS Ultra",
             "socket": "AM5",
@@ -231,6 +244,7 @@
             }
         },
         {
+            "id": 4,
             "brand": "ASRock",
             "model": "Z690 Steel Legend",
             "socket": "LGA1700",
@@ -259,6 +273,7 @@
             }
         },
         {
+            "id": 5,
             "brand": "ASUS",
             "model": "Prime H510M-A",
             "socket": "LGA1200",

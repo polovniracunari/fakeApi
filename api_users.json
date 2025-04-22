@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "username": "janko123",
+        "email": "janko.markovic@example.com",
+        "password": "password123",
+        "firstName": "Janko",
+        "lastName": "Marković",
+        "age": 28,
+        "isAdmin": false
+    },
+    {
+        "id": 2,
+        "username": "ana_91",
+        "email": "ana.petrovic@example.com",
+        "password": "password123",
+        "firstName": "Ana",
+        "lastName": "Petrović",
+        "age": 32,
+        "isAdmin": true
+    }
+]

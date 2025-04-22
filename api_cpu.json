@@ -1,5 +1,6 @@
 [
     {
+        "id": 1,
         "brand": "Intel",
         "family": "Core i9",
         "model": "13900K",
@@ -15,6 +16,7 @@
         "socket": "LGA1700"
     },
     {
+        "id": 2,
         "brand": "AMD",
         "family": "Ryzen 9",
         "model": "7950X",
@@ -30,6 +32,7 @@
         "socket": "AM5"
     },
     {
+        "id": 3,
         "brand": "Intel",
         "family": "Core i5",
         "model": "13600K",
@@ -45,6 +48,7 @@
         "socket": "LGA1700"
     },
     {
+        "id": 4,
         "brand": "AMD",
         "family": "Ryzen 5",
         "model": "7600X",
@@ -60,6 +64,7 @@
         "socket": "AM5"
     },
     {
+        "id": 5,
         "brand": "Intel",
         "family": "Core i3",
         "model": "12100F",

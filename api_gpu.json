@@ -1,5 +1,6 @@
 [
     {
+        "id": 1,
         "brand": "NVIDIA",
         "family": "GeForce RTX",
         "model": "4090",
@@ -14,6 +15,7 @@
         }
     },
     {
+        "id": 2,
         "brand": "AMD",
         "family": "Radeon RX",
         "model": "7900 XTX",
@@ -28,6 +30,7 @@
         }
     },
     {
+        "id": 3,
         "brand": "NVIDIA",
         "family": "GeForce RTX",
         "model": "4070 Ti",
@@ -42,6 +45,7 @@
         }
     },
     {
+        "id": 4,
         "brand": "AMD",
         "family": "Radeon RX",
         "model": "7700 XT",
@@ -56,6 +60,7 @@
         }
     },
     {
+        "id": 5,
         "brand": "NVIDIA",
         "family": "GeForce RTX",
         "model": "3060",

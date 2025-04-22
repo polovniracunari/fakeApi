@@ -1,5 +1,6 @@
 [
     {
+        "id": 1,
         "brand": "ASUS",
         "model": "ROG Maximus Z790 Hero",
         "socket": "LGA1700",
@@ -26,6 +27,7 @@
         }
     },
     {
+        "id": 2,
         "brand": "MSI",
         "model": "MAG B550 Tomahawk",
         "socket": "AM4",
@@ -54,6 +56,7 @@
         }
     },
     {
+        "id": 3,
         "brand": "Gigabyte",
         "model": "B650I AORUS Ultra",
         "socket": "AM5",
@@ -81,6 +84,7 @@
         }
     },
     {
+        "id": 4,
         "brand": "ASRock",
         "model": "Z690 Steel Legend",
         "socket": "LGA1700",
@@ -109,6 +113,7 @@
         }
     },
     {
+        "id": 5,
         "brand": "ASUS",
         "model": "Prime H510M-A",
         "socket": "LGA1200",
