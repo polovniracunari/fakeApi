@@ -1,0 +1,138 @@
+[
+    {
+        "brand": "ASUS",
+        "model": "ROG Maximus Z790 Hero",
+        "socket": "LGA1700",
+        "ram": {
+            "frequnecy": [
+                4800,
+                5600,
+                6000,
+                6400
+            ],
+            "ddr": 5,
+            "numberOfSlots": 4,
+            "maxCapacity": 128
+        },
+        "Size": "ATX",
+        "Ethernet": 2.5,
+        "Wifi6": true,
+        "connectivity": {
+            "Sata": 6,
+            "m2": 4,
+            "usb32Gen2": 4,
+            "usb32Gen1": 4,
+            "usb2": 2
+        }
+    },
+    {
+        "brand": "MSI",
+        "model": "MAG B550 Tomahawk",
+        "socket": "AM4",
+        "ram": {
+            "frequnecy": [
+                2133,
+                2400,
+                2666,
+                3200,
+                3600,
+                4000
+            ],
+            "ddr": 4,
+            "numberOfSlots": 4,
+            "maxCapacity": 128
+        },
+        "Size": "ATX",
+        "Ethernet": 1,
+        "Wifi6": false,
+        "connectivity": {
+            "Sata": 6,
+            "m2": 2,
+            "usb32Gen2": 1,
+            "usb32Gen1": 2,
+            "usb2": 2
+        }
+    },
+    {
+        "brand": "Gigabyte",
+        "model": "B650I AORUS Ultra",
+        "socket": "AM5",
+        "ram": {
+            "frequnecy": [
+                4800,
+                5200,
+                5600,
+                6000,
+                6400
+            ],
+            "ddr": 5,
+            "numberOfSlots": 2,
+            "maxCapacity": 64
+        },
+        "Size": "Mini ITX",
+        "Ethernet": 2.5,
+        "Wifi6": true,
+        "connectivity": {
+            "Sata": 4,
+            "m2": 2,
+            "usb32Gen2": 3,
+            "usb32Gen1": 2,
+            "usb2": 2
+        }
+    },
+    {
+        "brand": "ASRock",
+        "model": "Z690 Steel Legend",
+        "socket": "LGA1700",
+        "ram": {
+            "frequnecy": [
+                3200,
+                3600,
+                4000,
+                4400,
+                4800,
+                5200
+            ],
+            "ddr": 4,
+            "numberOfSlots": 4,
+            "maxCapacity": 128
+        },
+        "Size": "ATX",
+        "Ethernet": 1,
+        "Wifi6": false,
+        "connectivity": {
+            "Sata": 6,
+            "m2": 3,
+            "usb32Gen2": 2,
+            "usb32Gen1": 3,
+            "usb2": 2
+        }
+    },
+    {
+        "brand": "ASUS",
+        "model": "Prime H510M-A",
+        "socket": "LGA1200",
+        "ram": {
+            "frequnecy": [
+                2133,
+                2400,
+                2666,
+                2933,
+                3200
+            ],
+            "ddr": 4,
+            "numberOfSlots": 2,
+            "maxCapacity": 64
+        },
+        "Size": "Micro ATX",
+        "Ethernet": 1,
+        "Wifi6": false,
+        "connectivity": {
+            "Sata": 4,
+            "m2": 1,
+            "usb32Gen2": 0,
+            "usb32Gen1": 2,
+            "usb2": 4
+        }
+    }
+]

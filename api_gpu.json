@@ -1,0 +1,72 @@
+[
+    {
+        "brand": "NVIDIA",
+        "family": "GeForce RTX",
+        "model": "4090",
+        "core": 16384,
+        "vram": 24,
+        "memoryBus": 384,
+        "tdp": 450,
+        "ports": {
+            "hdmi": 3,
+            "dvi": 1,
+            "vga": 0
+        }
+    },
+    {
+        "brand": "AMD",
+        "family": "Radeon RX",
+        "model": "7900 XTX",
+        "core": 6144,
+        "vram": 24,
+        "memoryBus": 384,
+        "tdp": 355,
+        "ports": {
+            "hdmi": 1,
+            "dvi": 1,
+            "vga": 0
+        }
+    },
+    {
+        "brand": "NVIDIA",
+        "family": "GeForce RTX",
+        "model": "4070 Ti",
+        "core": 7680,
+        "vram": 12,
+        "memoryBus": 192,
+        "tdp": 285,
+        "ports": {
+            "hdmi": 1,
+            "dvi": 2,
+            "vga": 0
+        }
+    },
+    {
+        "brand": "AMD",
+        "family": "Radeon RX",
+        "model": "7700 XT",
+        "core": 3456,
+        "vram": 12,
+        "memoryBus": 192,
+        "tdp": 245,
+        "ports": {
+            "hdmi": 1,
+            "dvi": 1,
+            "vga": 1
+        }
+    },
+    {
+        "brand": "NVIDIA",
+        "family": "GeForce RTX",
+        "model": "3060",
+        "core": 3584,
+        "vram": 12,
+        "memoryBus": 192,
+        "tdp": 170,
+        "ports": {
+            "hdmi": 3,
+            "dvi": 1,
+            "vga": 0
+        }
+    }
+]

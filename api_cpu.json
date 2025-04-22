@@ -1,0 +1,77 @@
+[
+    {
+        "brand": "Intel",
+        "family": "Core i9",
+        "model": "13900K",
+        "frequency": 3.0,
+        "core": 24,
+        "threads": 32,
+        "cache": {
+            "l1": "32KB per core",
+            "l2": "2MB per core",
+            "l3": "36MB"
+        },
+        "tdp": 125,
+        "socket": "LGA1700"
+    },
+    {
+        "brand": "AMD",
+        "family": "Ryzen 9",
+        "model": "7950X",
+        "frequency": 4.5,
+        "core": 16,
+        "threads": 32,
+        "cache": {
+            "l1": "64KB per core",
+            "l2": "1MB per core",
+            "l3": "64MB"
+        },
+        "tdp": 170,
+        "socket": "AM5"
+    },
+    {
+        "brand": "Intel",
+        "family": "Core i5",
+        "model": "13600K",
+        "frequency": 3.5,
+        "core": 14,
+        "threads": 20,
+        "cache": {
+            "l1": "32KB per core",
+            "l2": "2MB per core",
+            "l3": "24MB"
+        },
+        "tdp": 125,
+        "socket": "LGA1700"
+    },
+    {
+        "brand": "AMD",
+        "family": "Ryzen 5",
+        "model": "7600X",
+        "frequency": 4.7,
+        "core": 6,
+        "threads": 12,
+        "cache": {
+            "l1": "64KB per core",
+            "l2": "1MB per core",
+            "l3": "32MB"
+        },
+        "tdp": 105,
+        "socket": "AM5"
+    },
+    {
+        "brand": "Intel",
+        "family": "Core i3",
+        "model": "12100F",
+        "frequency": 3.3,
+        "core": 4,
+        "threads": 8,
+        "cache": {
+            "l1": "32KB per core",
+            "l2": "1.25MB per core",
+            "l3": "12MB"
+        },
+        "tdp": 58,
+        "socket": "LGA1700"
+    }
+]
